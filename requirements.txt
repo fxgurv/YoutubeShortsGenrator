@@ -1,0 +1,11 @@
+g4f  
+gradio
+pillow
+moviepy   
+edge-tts 
+curl_cffi
+assemblyai 
+elevenlabs
+oauth2client
+google-generativeai
+google-api-python-client 
